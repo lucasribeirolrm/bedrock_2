@@ -1,0 +1,6 @@
+POST https://hc2flx6pkj.execute-api.us-east-1.amazonaws.com/web_serv_prod/relacionamentocomcliente
+Content-type: application/json
+
+{
+  "question": "Qual é o papel do Código de Defesa do Consumidor?"
+}
